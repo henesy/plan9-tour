@@ -26,12 +26,12 @@ threadmain(int, char *[])
 {
 	int x, y;
 	
-	int s0[] = {-9, 4, 0};
-	int s1[] = {7, 2, 8};
+	int s₀[] = {-9, 4, 0};
+	int s₁[] = {7, 2, 8};
 
 	c = chancreate(sizeof(int), 0);
-	proccreate(sum, s0, 8 * 1024);
-	proccreate(sum, s1, 8 * 1024);
+	proccreate(sum, s₀, 8 * 1024);
+	proccreate(sum, s₁, 8 * 1024);
 
 	recv(c, &x);
 	recv(c, &y);
