@@ -37,4 +37,6 @@ threadmain(int, char *[])
 	recv(c, &y);
 	
 	print("%d %d %d\n", x, y, x+y);
+	
+	threadexitsall(nil);
 }
