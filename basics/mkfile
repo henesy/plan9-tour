@@ -1,5 +1,8 @@
 </$objtype/mkfile
 
-TARG = 
+TARG = libraries \
+		exported \
+		functions \
+		multiple-returns \
 
 </sys/src/cmd/mkmany
