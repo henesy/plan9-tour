@@ -1,6 +1,5 @@
 </$objtype/mkfile
 
-TARG = chans \
-		channels \
+TARG = channels \
 
 </sys/src/cmd/mkmany

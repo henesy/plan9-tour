@@ -2,7 +2,7 @@
 #include <libc.h>
 
 void
-main()
+main(int, char*[])
 {
 	print("Hello, κόσμε\n");
 	exits(nil);
