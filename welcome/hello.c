@@ -4,6 +4,6 @@
 void
 main(int, char*[])
 {
-	print("Hello, κόσμε\n");
+	print("Hello, 世界\n");
 	exits(nil);
 }
