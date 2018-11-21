@@ -1,0 +1,5 @@
+</$objtype/mkfile
+
+TARG = hello.c \
+
+</sys/src/cmd/mkmany
