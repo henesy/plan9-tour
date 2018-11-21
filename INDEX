@@ -1,3 +1,6 @@
-total:2
-0:welcome/hello.c
-1:concurrency/chans.c
+welcome
+basics
+flowcontrol
+moretypes
+methods
+concurrency
