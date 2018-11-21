@@ -1,0 +1,6 @@
+</$objtype/mkfile
+
+TARG = chans \
+		channels \
+
+</sys/src/cmd/mkmany
