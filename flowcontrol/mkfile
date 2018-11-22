@@ -1,5 +1,12 @@
 </$objtype/mkfile
 
-TARG = 
+TARG = for \
+		while \
+		dowhile \
+		forever \
+		if \
+		if-with-a-short-statement \
+		if-and-else \
+		switch \
 
 </sys/src/cmd/mkmany
