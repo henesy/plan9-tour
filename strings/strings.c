@@ -37,6 +37,8 @@ main(int, char *[])
 	Bterm(user);
 	Bterm(snarf);
 	Bterm(stdout);
+	close(userfd);
+	close(snarfd);
 	
 	exits(nil);
 }
