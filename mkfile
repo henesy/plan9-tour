@@ -3,7 +3,7 @@
 DIRS = basics \
 		concurrency \
 		flowcontrol \
-		methods \
+		strings \
 		moretypes \
 		welcome \
 

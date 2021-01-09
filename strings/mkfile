@@ -1,5 +1,5 @@
 </$objtype/mkfile
 
-TARG = 
+TARG = strings \
 
 </sys/src/cmd/mkmany
